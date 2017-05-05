@@ -1,0 +1,34 @@
+/**
+ * Basic typography style for copy text
+ */
+
+body {
+    font-family: $text-font-stack;
+}
+
+h1,
+h2,
+h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: inherit;
+    color: $text-color;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 16.85px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.6;
+    margin: 0;
+}

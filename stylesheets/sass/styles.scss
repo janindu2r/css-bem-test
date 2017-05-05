@@ -1,19 +1,19 @@
 // 1. Configuration and helpers
 //
-@import 'abstracts/abstracts-index';
+@import 'abstracts/_abstracts-index';
 // 2. Vendors
 //
-@import 'vendor/vendor-index';
+@import 'vendor/_vendor-index';
 // 3. Base stuff
 //
-@import 'base/base-index';
+@import 'base/_base-index';
 // 4. Layout-related sections
 //
-@import 'layout/layout-index';
+@import 'layout/_layout-index';
 // 5. Components
 //
-@import 'components/components-index';
+@import 'components/_components-index';
 //
 // 6. Page-specific styles
 //
-@import 'pages/pages-index';
+@import 'pages/_pages-index';
